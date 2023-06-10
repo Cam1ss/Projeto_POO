@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <h1> 《 Plataformas utilizadas 》 </h1>
+  <h2> 《 Plataformas utilizadas 》 </h2>
 
 <table>
 <tr>
