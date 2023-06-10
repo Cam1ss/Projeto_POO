@@ -2,7 +2,7 @@
 
   # ※ Projeto de POO ※
   
-![ezgifcom-imagem-to-gif](https://im.ezgif.com/tmp/ezgif-1-638cd6b447.gif)
+
 
 </div> 
 
