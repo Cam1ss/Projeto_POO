@@ -19,6 +19,10 @@
   
   <h1> 《 Programas utilizados 》 </h1>
 
-<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+<img height="150" alt="coding-time" src="https://github.com/Cam1ss/Projeto_POO/assets/125037138/4862e3d2-e89e-4cde-a837-20b47bce4185">
+
+</div>
   
-  </div>
+  
