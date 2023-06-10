@@ -19,6 +19,6 @@
   
   <h1> 《 Programas utilizados 》 </h1>
 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
-
+<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   </div>
