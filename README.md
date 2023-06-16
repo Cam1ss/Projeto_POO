@@ -26,6 +26,9 @@
  
  <td><img height="100" alt="coding-time" src="https://github.com/Cam1ss/Projeto_POO/assets/125037138/25c509e8-05b5-47f4-93b1-f39b008a5d66"/></td>
 <td> <strong> Canva </strong> </td>
+
+ <td><img height="100" alt="coding-time" src="https://github.com/Cam1ss/Projeto_POO/assets/125037138/fa4a31d7-5887-47fd-be12-eb20d60d16bf"/></td>
+<td> <strong> Eclipse IDE </strong> </td>
 </tr>
   </table>
   
@@ -37,6 +40,8 @@
 <div align="center">
   
   <h2> 《 Função dos Membros 》 </h2>
+
+  
 
   
 </div>
