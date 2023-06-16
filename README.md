@@ -44,7 +44,7 @@
   <div align="left">
 <table>
 <tr>
-  <td> <strong> ⭐CAMILA </strong> <br> ------------------------------ <br> 🖥️ | Carregamento <br> 🖥️ | Login <br> 🖥️ | Cadastro <br> 🖥️ | Menu <br> 🖥️ | Escolha de Figuras Espaciais C</td>
+  <td> <strong> ⭐CAMILA </strong> <br> ------------------------------ <br> 🖥️ | Carregamento <br> 🖥️ | Login <br> 🖥️ | Cadastro <br> 🖥️ | Menu <br> 🖥️ | Escolha de Figuras Espaciais<br></br></td>
   <td> <strong> ☄️ENZO </strong> <br> -----------------------------<br> 🖥️ | Dados do Cubo <br> 🖥️ | Dados do Prisma <br> 🖥️ | Escolha de Cálculo (Espaciais) <br></br><br></br> </td>
   <td> <strong> ☀️PEDRO HENRIQUE </strong> <br> ------------------------<br> 🖥️ | Dados Figuras Planas <br> 🖥️ | Escolha Figuras Planas <br></br> <br></br> </td>
   <td> <strong> 🌙ANDERSON </strong> <br> --------------------------<br> 🖥️ | Dados Figuras Espaciais <br> 🖥️ | Escolha o Tipo de Figura <br></br> <br></br> </td>
