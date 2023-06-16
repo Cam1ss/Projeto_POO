@@ -41,8 +41,12 @@
   
   <h2> 《 Função dos Membros 》 </h2>
 
-  
-
+  <div align="left">
+<table>
+<tr>
+  <td> <strong> ⭐CAMILA </strong> <br> 🖥️ | Carregamento <br> 🖥️ | Login <br> 🖥️ | Cadastro <br> 🖥️ | Menu <br> 🖥️ | Escolha de Figuras Espaciais </br></td>
+ </tr>
+  </div>
   
 </div>
 
