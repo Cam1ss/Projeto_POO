@@ -45,6 +45,8 @@
 <table>
 <tr>
   <td> <strong> ⭐CAMILA </strong> <br> 🖥️ | Carregamento <br> 🖥️ | Login <br> 🖥️ | Cadastro <br> 🖥️ | Menu <br> 🖥️ | Escolha de Figuras Espaciais </br></td>
+  <td> <strong> ☄️ENZO </strong> <br> 🖥️ | Dados do Cubo <br> 🖥️ | Dados do Prisma <br> 🖥️ | Escolha de Cálculo (Espaciais) </br> <br></br> </td>
+  <td> <strong> ☄️PEDRO HENRIQUE </strong> <br> 🖥️ | Dados do Cubo <br> 🖥️ | Dados do Prisma <br> 🖥️ | Escolha de Cálculo (Espaciais) </br> <br></br> </td>
  </tr>
   </div>
   
