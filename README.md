@@ -13,7 +13,19 @@
     <a href="https://github.com/Enzo-Giuliano" target="_self" rel="external">Enzo Giuliano</a>
 </div>
 
-------------------------------------------------------------------
+--------------------------------------------------------------
+
+<div align="center">
+
+  <h2> 《 Descrição 》 </h2>
+
+  <div align="left">
+   Este repositório trata-se do projeto final de 4 estudantes para a disciplina de Programação Orientada a Objetos no curso técnico integrado em informática no Instituto Federal do Ceará campus Fortaleza. O projeto consiste numa calculadora de figuras planas e espaciais, sendo possível obter resultados como área, área lateral, volume, entre outros. O trabalho foi iniciado em abril, a partir da tarefa de criar classes com atributos e métodos relacionados às figuras. Após isso, foram feitos vários complementos, como a implementação de herança, jframes e login (sem banco de dados).
+  </div>
+  
+</div>
+
+--------------------------------------------------------------
 
 <div align="center">
   
